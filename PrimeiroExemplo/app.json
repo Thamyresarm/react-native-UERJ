@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "TrabalhoFinal",
+    "icon": "/components/logo.png",
+    "version": "1.0.0",
+    "slug": "TrabalhoFinal",
+    "ios": {
+      "bundleIdentifier": "com.curso.TrabalhoFinal",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.curso.TrabalhoFinal",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37b314cf-58dc-4f6f-b32c-6b88660db8d8"
+      }
+    }
+  }
+}
